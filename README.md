@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kalaicharan M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75590&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+GenAI+%7C+LangChain+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Data+Science+%7C+Analyst" alt="Typing SVG" />
 </p>
 
 <h3 align="center">AI & Data Science Enthusiast | Final Year Student | Full-Stack Developer</h3>
+
 
 
 ---
