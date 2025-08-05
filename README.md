@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kalaicharan M</h1>
 
-<h3 align="center">>AI Developer | ML/DL | GenAI | LangChain | Python | Power BI</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=200&lines=AI+Developer" alt="Typing SVG" />
+</p>
 
-
+<h3 align="center">ML/DL | GenAI | LangChain | Python | Power BI</h3>
 
 ---
 
