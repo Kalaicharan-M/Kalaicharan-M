@@ -13,7 +13,7 @@
 📫 **How to reach me:**
 - LinkedIn: [kalaicharan-m31](https://www.linkedin.com/in/kalaicharan-m31/)
 - Email: (Add your email here if you'd like to be contacted)
-- Portfolio: [http://kalaicharan-portfolio.netlify.app])
+- Portfolio: [PORTFOLIO](http://kalaicharan-portfolio.netlify.app)
 
 ---
 
